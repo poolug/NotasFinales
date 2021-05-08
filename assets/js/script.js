@@ -1,3 +1,5 @@
+//Mensaje inicial
+alert("Gracias por visitar este ejercicio\n\nSi deseas conocer de que se trata, solo continua ;)");
 
 //Esto es el header
 document.write("<header class='pl-0 pr-0'>")
