@@ -1,0 +1,12 @@
+/*Padding y margin de todo el DOC Html*/
+html * {
+    margin-top: 2rem;
+    padding-right: 5em;
+    padding-left: 5em;
+}
+
+/*Tamaño y posición del logo*/
+img {
+    float: right;
+    width: 300px;
+}
