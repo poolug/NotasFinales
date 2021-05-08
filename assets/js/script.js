@@ -1,8 +1,8 @@
 //Mensaje inicial
-alert("Gracias por visitar este ejercicio\n\nSi deseas conocer de que se trata, solo continua ;)");
+Swal.fire("¡Hola!", "Gracias por visitarme ;)")
 
 //Esto es el header
-document.write("<header class='pl-0 pr-0'>")
+document.write("<header class='pl-0 pr-0 pt-5'>")
 document.write("<div class='container-fluid pl-0'>")
 document.write("<img class='pr-0 mt-0' src='assets/img/logo.png' alt='logo-header'></img>")
 document.write("<h1 class='pl-0'>Notas Finales</h1>");
